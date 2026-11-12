@@ -26,4 +26,6 @@ class Sistema:
     def cargar(self, ruta):
         """Reemplaza los alumnos con los que haya en el archivo."""
         self._alumnos = almacen.cargar(ruta)
+
+
         
