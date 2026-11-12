@@ -12,5 +12,6 @@ class Alumno:
         """Retorna el alumno en una línea, listo para imprimir."""
         return self.codigo + " " + self.nombre
     
-    # cambio de prueba desde A
+    # cambio desde B
+    
     
